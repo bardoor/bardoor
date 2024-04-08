@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **bardoor/bardoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my shit under your door
 - 📫 How to reach me: watch sewerage
 - ⚡ Fun fact: I'm pooping right now
--->
+
